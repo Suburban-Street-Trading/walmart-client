@@ -1,4 +1,4 @@
-module walmart-client
+module github.com/Suburban-Street-Trading/walmart
 
 go 1.21
 
